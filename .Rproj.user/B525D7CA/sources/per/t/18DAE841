@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603596210298.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "18DAE841",
+    "lastKnownWriteTime" : 140528209987160,
+    "last_content_update" : 1603596210298,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8AFA2D34",
+        "caption" : "sim",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=sim&cache_key=8AFA2D34",
+        "displayedObservations" : 500,
+        "environment" : "",
+        "expression" : "sim",
+        "object" : "sim",
+        "preview" : 0,
+        "totalObservations" : 500,
+        "variables" : 5
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

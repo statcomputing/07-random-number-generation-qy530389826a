@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603592728491.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "888F2011",
+    "lastKnownWriteTime" : 8746391179622350852,
+    "last_content_update" : 1603592728491,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B9B8976D",
+        "caption" : "dat3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dat3&cache_key=B9B8976D",
+        "displayedObservations" : 10000,
+        "environment" : "",
+        "expression" : "dat3",
+        "object" : "dat3",
+        "preview" : 0,
+        "totalObservations" : 10000,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
